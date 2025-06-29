@@ -34,7 +34,7 @@ GestureSpeak-Sign-to-Text-Converter/
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/shatakshi455/GestureSpeak-Sign-to-Text-Converter.git
+   git clone https://github.com/chrisrex007/GestureSpeak-Sign-to-Text-Converter.git
    cd GestureSpeak-Sign-to-Text-Converter
    ```
 2. Install dependencies:
